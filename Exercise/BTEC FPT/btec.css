@@ -1,0 +1,27 @@
+.btec{
+    width: 1000px;
+    height: 285px;
+    margin: auto; 
+    margin-top: 200px; 
+    border: 1px solid black;
+    background-color: aqua;
+    padding: 20px;
+}
+
+.container{
+    width: 650px;
+    float:right
+}
+
+.img{
+    margin-top: 1px;
+    width: 300px;
+    height: 284px;
+    float:left;
+}
+
+.submit{
+    background-color: orange;
+}
+
+

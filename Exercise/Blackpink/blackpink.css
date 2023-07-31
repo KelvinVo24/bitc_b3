@@ -1,0 +1,15 @@
+.container{
+    width: 750px;
+    margin: auto;
+    border: 1px solid pink;
+    background-color: pink;
+}
+
+.img{
+    width: 750px;
+}
+
+.submit{
+    background-color: yellow;
+    padding: 10px;
+}
